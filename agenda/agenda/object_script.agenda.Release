@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\adicionacontato.o
+./release\database.o
+./release\removecontato.o
+./release\buscacontato.o
+./release\exibecontato.o
+./release\moc_mainwindow.o
+./release\moc_adicionacontato.o
+./release\moc_database.o
+./release\moc_removecontato.o
+./release\moc_buscacontato.o
+./release\moc_exibecontato.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\adicionacontato.o
+./debug\database.o
+./debug\removecontato.o
+./debug\buscacontato.o
+./debug\exibecontato.o
+./debug\moc_mainwindow.o
+./debug\moc_adicionacontato.o
+./debug\moc_database.o
+./debug\moc_removecontato.o
+./debug\moc_buscacontato.o
+./debug\moc_exibecontato.o
+);
